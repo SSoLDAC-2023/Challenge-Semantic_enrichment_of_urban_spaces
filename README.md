@@ -15,7 +15,7 @@ Identify the urban elements that play a role in the assessment of accessibility 
 
 ## Challenger Research Questions:
 - What are the most relevant urban elements for accessibility and what are the crucial attributes to be modelled? What attributes can and should be computed automatically from the 3D geometric model (e.g., because the attribute is crucial and must be computed precisely in many positions). Which semantics does the 3D model ideally need to be enriched with?
-- Can you build an application interface which graphically aids the user to find a suitable route in the city of Matera, using the Matera Digital Twin, semantic attributes and user data?
+- Can you build an application interface which graphically aids the user to find a suitable route in the city of Matera, using the available geometric datasets, semantic attributes and user data?
 - Optional: Model other boundary conditions (e.g., environmental conditions, thermal comfort) that may impact the level of accessibility / comfort of a path for a user.
 - Optional: Information such as location and medical data is very sensitive. What measures can you take to guarantee the privacy of the user?
 
