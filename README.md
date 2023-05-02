@@ -1,5 +1,5 @@
 # Formalization and Semantic enrichment of urban spaces for accessibility analysis 
-Champions: TODO
+Champions: Michela Mortara, IMATI, Genova
 
 ## Challenge description:
 The Semantic enrichment of large and complex geometric models such as city Digital Twins is crucial for the monitoring, understanding, simulation and prediction of phenomena that happen in the urban space. In particular, we will focus on accessibility, a problem of huge importance in a peculiar city like Matera. After being European capital of Culture in 2019 Matera has seen an enormous increase in touristic visits; besides, the age of tourists is gradually increasing and the accessibility of ancient sites and historical buildings might be problematic to some profiles of visitors, not to mention issues for impaired people. 
