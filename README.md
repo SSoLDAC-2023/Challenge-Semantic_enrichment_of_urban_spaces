@@ -1,4 +1,4 @@
-# Formalization and Semantic enrichment of urban spaces for accessibility analysis 
+# Challenge: Semantic enrichment of urban spaces
 Champions: Michela Mortara, IMATI, Genova
 
 ## Challenge description:
