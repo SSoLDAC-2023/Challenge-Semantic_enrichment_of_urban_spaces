@@ -20,7 +20,7 @@ Identify the urban elements that play a role in the assessment of accessibility 
 - Optional: Information such as location and medical data is very sensitive. What measures can you take to guarantee the privacy of the user?
 
 ## Datasets available:
-- 3D models of a few outdoor or indoor areas in Matera, represented as triangle meshes. 
+- [3D models](https://drive.google.com/drive/folders/16uHxb22vvqRbfUxJ4l9R3k5hHxjuHt6t?usp=sharing) of a few outdoor or indoor areas in Matera, represented as triangle meshes. 
 - Generate your own user profiles (e.g. using the Solid ecosystem)
 
 ## Supplementary Resources
